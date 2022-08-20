@@ -1,7 +1,7 @@
-title                   : "Barebone Jekyll"
+title                   : "Jsadasd"
 author                  : "YourName"
 email                   : your_email@example.com
-description             : "Heiswayi Nrird's Barebone Jekyll theme"
+description             : "Jekyll Barebone Jekyll theme"
 twitter_username        : your_twitter_username
 github_username         : hn-barebone
 
@@ -13,7 +13,7 @@ destination             : ./_site
 permalink               : /:title
 markdown                : kramdown
 highlighter             : rouge
-timezone                : Asia/Kuala_Lumpur
+timezone                : Asia/Istanbul
 
 include:
   - _redirects
